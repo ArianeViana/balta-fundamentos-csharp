@@ -1,0 +1,15 @@
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\bin\Debug\net6.0\Aulas.exe
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\bin\Debug\net6.0\Aulas.deps.json
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\bin\Debug\net6.0\Aulas.runtimeconfig.json
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\bin\Debug\net6.0\Aulas.dll
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\bin\Debug\net6.0\Aulas.pdb
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.csproj.AssemblyReference.cache
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.AssemblyInfo.cs
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.dll
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\refint\Aulas.dll
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.pdb
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\Aulas.genruntimeconfig.cache
+C:\Users\arianeviana.dsn.pack\Documents\cursos\c# - balta\Aulas\obj\Debug\net6.0\ref\Aulas.dll
